@@ -46,9 +46,9 @@ I'm constantly seeking opportunities to expand my skill set. Currently, I'm focu
 
 I'm always open to new collaborations and networking opportunities. Feel free to reach out:
 
-- 📧 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
+- 📧 [Email](mailto:kbashish1312@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashishkubehera/)
+- 🐦 [Twitter](https://twitter.com/AshishK52915440)
 
 ## 🌟 Fun Fact
 
