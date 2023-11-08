@@ -10,7 +10,7 @@ I specialize in front-end web development and user interface design, focusing on
 
 - **Web Development**: Building responsive and performant websites and web applications using HTML, CSS, and JavaScript.
 
-- **UI/UX Design**: Creating intuitive and visually appealing user interfaces that prioritize user experience and accessibility.
+- **UI/UX Development**: Creating intuitive and visually appealing user interfaces that prioritize user experience and accessibility.
 
 - **Frameworks & Libraries**: Leveraging modern frameworks and libraries such as React, Vue.js, and Bootstrap to streamline development.
 
