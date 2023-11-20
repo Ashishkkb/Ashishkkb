@@ -28,19 +28,6 @@ Here are some of the technologies and tools I work with:
 
 - **Version Control**: Git
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishkkb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-## 🌱 What I'm Currently Learning
-
-I'm constantly seeking opportunities to expand my skill set. Currently, I'm focusing on:
-
-- **Advanced CSS Techniques**: Exploring CSS Grid, Flexbox, and CSS-in-JS solutions to enhance layout and styling.
-
-- **Performance Optimization**: Learning techniques to optimize website performance and improve loading times.
-
-- **Frontend Testing**: Implementing automated testing with tools like Jest and Cypress.
 
 ## 📫 Let's Connect
 
