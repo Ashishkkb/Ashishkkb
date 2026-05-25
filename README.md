@@ -1,60 +1,126 @@
-# 👋 Hey, I'm Ashish — TheDevGuy
+# Ashish Kumar Behera
 
-Welcome to my GitHub! I'm a passionate **Frontend Developer** who loves bringing designs to life with elegant, efficient, and user-friendly interfaces. I thrive on turning ideas into reality through **clean code, seamless UI/UX, and modern web technologies**.
+Engineer focused on realtime systems, trading infrastructure, and AI-native products.
 
----
-
-## 🚀 About Me
-
-| 💻 **Frontend Wizard** | 🎨 **Design Enthusiast** | 🛠 **Tech Stack** |
-|----------------------|--------------------|----------------|
-| Transforming pixels into beautiful experiences. | A keen eye for aesthetics & usability. | React, Next.js, TailwindCSS, JavaScript, TypeScript, and more. |
-
-- 🔥 **Passionate Creator** | Love building products that solve real-world problems.
-- 🎯 **Mission** | Crafting **scalable** & **high-performance** web apps with an intuitive user experience.
+I build high-performance interfaces and scalable frontend systems for products where responsiveness, streaming data, and realtime synchronization matter. My work has involved architecting browser-based trading terminals, low-latency market data systems, and AI-native interfaces powered by streaming workflows.
 
 ---
 
-## ✨ What I Do Best
+## What I Work On
 
-✔️ **Frontend Development** - Fast, beautiful & responsive UIs.<br>
-✔️ **UI/UX Optimization** - Crafting smooth & intuitive experiences.<br>
-✔️ **Performance Optimization** - Making the web faster, one project at a time.<br>
-✔️ **Component-Based Architecture** - Building scalable and maintainable systems.<br>
+### Realtime Systems
+
+* WebSocket infrastructure
+* Streaming architectures
+* Low-latency UI systems
+* Event-driven frontend engineering
+* Realtime synchronization patterns
+
+### Trading Infrastructure
+
+* Browser-based trading terminals
+* Market data pipelines
+* High-frequency rendering systems
+* Charting integrations
+* Workspace and layout engines
+
+### AI-native Products
+
+* Streaming conversational interfaces
+* LLM integrations
+* Optimistic UI patterns
+* AI workflow interfaces
+* React Server Components
 
 ---
 
-## 🛠 Tech Stack
+## Technical Focus
 
-```json
-{
-  "Frontend": ["React", "Next.js", "TailwindCSS", "JavaScript", "TypeScript"],
-  "Backend": ["Node.js", "Express", "Firebase"],
-  "Tools": ["Git", "VS Code", "Figma", "Postman"]
+```ts
+const focus = {
+  frontendArchitecture: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Design Systems",
+    "Streaming UI"
+  ],
+
+  realtimeSystems: [
+    "WebSockets",
+    "SSE",
+    "Realtime Synchronization",
+    "Rendering Optimization",
+    "Event-driven Architecture"
+  ],
+
+  infrastructure: [
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "Performance Engineering"
+  ],
+
+  productEngineering: [
+    "AI-native Interfaces",
+    "Trading Infrastructure",
+    "Scalable Frontend Systems"
+  ]
 }
 ```
 
 ---
 
-## 📊 GitHub Stats
+## Selected Work
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishkkb&show_icons=true&theme=radical)
+### Realtime Trading Infrastructure
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkkb&layout=compact&theme=radical)
+Built low-latency trading interfaces processing thousands of realtime market events with optimized rendering pipelines, websocket synchronization, and scalable frontend architecture.
+
+### AI-native Product Systems
+
+Engineered streaming conversational interfaces and dashboard systems for AI workflows using Server Sent Events, React Server Components, and optimistic rendering patterns.
+
+### Frontend Performance Engineering
+
+Worked on rendering optimization, realtime synchronization, and scalable state management for data-intensive applications operating under high update frequency.
 
 ---
 
-## 📫 Let's Connect
-🚀 Always open to exciting projects & collaborations! Reach out to me:
+## Engineering Interests
 
-- 📧 [Email](mailto:kbashish1312@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashishkubehera/)
-- 🐦 [Twitter](https://twitter.com/AshishK52915440)
+* Realtime systems design
+* Browser performance
+* Event-driven systems
+* Rendering pipelines
+* AI-native product experiences
+* Frontend architecture at scale
+* Product engineering for complex systems
 
 ---
 
-## 🌟 Fun Fact
-🎩 Give me a product idea, and I'll turn it into magic ✨
+## Current Focus
 
-🚀 Let's build something amazing together! Thanks for stopping by. 😃
+Currently exploring deeper systems design patterns around:
 
+* realtime infrastructure
+* frontend scalability
+* AI streaming architectures
+* low-latency systems
+* performance-focused product engineering
+
+---
+
+## Connect
+
+* Email: [kbashish1312@gmail.com](mailto:kbashish1312@gmail.com)
+* LinkedIn: linkedin.com/in/ashishkubehera
+* GitHub: github.com/Ashishkkb
+
+Open to opportunities involving:
+
+* realtime systems
+* trading infrastructure
+* AI-native products
+* frontend architecture
+* high-performance engineering
