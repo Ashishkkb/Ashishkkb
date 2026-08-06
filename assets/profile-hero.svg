@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ashish Kumar Behera — Product Engineer</title>
+  <desc id="desc">A dark technical banner representing realtime systems, AI workflows, trading infrastructure, and performance engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.52" stop-color="#0D1628"/>
+      <stop offset="1" stop-color="#10172C"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientTransform="translate(930 130) rotate(90) scale(230)">
+      <stop offset="0" stop-color="#2386FF" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#2386FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(1040 310) rotate(90) scale(190)">
+      <stop offset="0" stop-color="#8957E5" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#8957E5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#58A6FF"/>
+      <stop offset=".5" stop-color="#7EE787"/>
+      <stop offset="1" stop-color="#BC8CFF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8B949E" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <clipPath id="frameClip">
+      <rect x="0" y="0" width="1200" height="360" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#glowBlue)"/>
+    <rect width="1200" height="360" fill="url(#glowViolet)"/>
+    <path d="M0 319C220 282 338 339 523 300C708 261 827 214 1200 256" fill="none" stroke="#58A6FF" stroke-opacity=".13"/>
+    <path d="M0 336C247 302 359 348 548 318C772 282 908 232 1200 281" fill="none" stroke="#7EE787" stroke-opacity=".09"/>
+
+    <g transform="translate(64 55)">
+      <rect width="230" height="28" rx="14" fill="#161B22" stroke="#30363D"/>
+      <circle cx="17" cy="14" r="4" fill="#7EE787"/>
+      <text x="30" y="19" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="12" letter-spacing="1.7">SYSTEMS / PRODUCT / UI</text>
+
+      <text x="0" y="103" fill="#F0F6FC" font-family="Inter, Segoe UI, sans-serif" font-size="44" font-weight="750" letter-spacing="-1.4">ASHISH KUMAR BEHERA</text>
+      <rect y="122" width="620" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="0" y="166" fill="#C9D1D9" font-family="Inter, Segoe UI, sans-serif" font-size="22" font-weight="500">Product engineer for realtime, AI-native systems</text>
+      <text x="0" y="197" fill="#8B949E" font-family="Inter, Segoe UI, sans-serif" font-size="16">Trading infrastructure · Event-driven workflows · Performance engineering</text>
+
+      <g transform="translate(0 228)" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="600">
+        <rect width="119" height="30" rx="8" fill="#12233A" stroke="#1F6FEB"/>
+        <text x="15" y="19" fill="#79C0FF">REACT / NEXT</text>
+        <rect x="130" width="134" height="30" rx="8" fill="#122D24" stroke="#238636"/>
+        <text x="145" y="19" fill="#7EE787">REALTIME DATA</text>
+        <rect x="275" width="140" height="30" rx="8" fill="#251B38" stroke="#8957E5"/>
+        <text x="290" y="19" fill="#D2A8FF">AI WORKFLOWS</text>
+        <rect x="426" width="151" height="30" rx="8" fill="#2E2414" stroke="#9E6A03"/>
+        <text x="441" y="19" fill="#E3B341">BROWSER PERF</text>
+      </g>
+    </g>
+
+    <g transform="translate(775 60)">
+      <rect width="365" height="238" rx="18" fill="#0D1117" fill-opacity=".84" stroke="#30363D"/>
+      <rect x="1" y="1" width="363" height="36" rx="17" fill="#161B22"/>
+      <circle cx="19" cy="19" r="4" fill="#F85149"/>
+      <circle cx="34" cy="19" r="4" fill="#E3B341"/>
+      <circle cx="49" cy="19" r="4" fill="#7EE787"/>
+      <text x="70" y="23" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="10">ashish@systems:~/now</text>
+
+      <g transform="translate(24 61)" font-family="JetBrains Mono, Consolas, monospace" font-size="11">
+        <text fill="#7EE787">●</text>
+        <text x="18" fill="#C9D1D9">realtime.pipeline</text>
+        <text x="250" fill="#7EE787">HEALTHY</text>
+        <text y="28" fill="#58A6FF">●</text>
+        <text x="18" y="28" fill="#C9D1D9">ai.workflow</text>
+        <text x="263" y="28" fill="#58A6FF">LIVE</text>
+        <text y="56" fill="#BC8CFF">●</text>
+        <text x="18" y="56" fill="#C9D1D9">render.engine</text>
+        <text x="236" y="56" fill="#BC8CFF">16.6 ms</text>
+      </g>
+
+      <g transform="translate(25 144)">
+        <path d="M0 38L27 35L46 26L64 31L84 14L101 18L123 4L145 24L167 16L190 22L215 3L237 11L260 7L282 18L315 2" fill="none" stroke="#58A6FF" stroke-width="2"/>
+        <path d="M0 54L27 48L46 51L64 40L84 43L101 32L123 38L145 29L167 35L190 26L215 29L237 19L260 26L282 13L315 20" fill="none" stroke="#7EE787" stroke-opacity=".75"/>
+        <circle cx="315" cy="2" r="4" fill="#58A6FF"/>
+        <circle cx="315" cy="20" r="4" fill="#7EE787"/>
+        <line x1="0" y1="70" x2="315" y2="70" stroke="#30363D"/>
+        <text y="89" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="9">STREAM / PROCESS / RENDER / MEASURE</text>
+      </g>
+    </g>
+
+    <g fill="#58A6FF">
+      <circle cx="736" cy="94" r="2"/>
+      <circle cx="1147" cy="49" r="2"/>
+      <circle cx="701" cy="286" r="2"/>
+    </g>
+    <g fill="#58A6FF" opacity=".28" filter="url(#softGlow)">
+      <circle cx="736" cy="94" r="9"/>
+      <circle cx="1147" cy="49" r="9"/>
+      <circle cx="701" cy="286" r="9"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="359" rx="23.5" fill="none" stroke="#30363D"/>
+</svg>
