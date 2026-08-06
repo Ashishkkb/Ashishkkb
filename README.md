@@ -7,9 +7,9 @@
   &nbsp;·&nbsp;
   <a href="#client-work"><strong>Client work</strong></a>
   &nbsp;·&nbsp;
-  <a href="#repository-map"><strong>Repository map</strong></a>
+  <a href="#project-universe"><strong>Project universe</strong></a>
   &nbsp;·&nbsp;
-  <a href="#archive-and-deprecation-registry"><strong>Archive registry</strong></a>
+  <a href="#lets-build-something-demanding"><strong>Contact</strong></a>
 </p>
 
 <p align="center">
@@ -30,10 +30,10 @@ I build products where the interface is part of the system: streaming data, even
 
 <table>
   <tr>
-    <td align="center"><strong>38</strong><br/><sub>owned repositories</sub></td>
+    <td align="center"><strong>22</strong><br/><sub>owned repositories</sub></td>
     <td align="center"><strong>8</strong><br/><sub>confirmed client deliveries</sub></td>
-    <td align="center"><strong>13</strong><br/><sub>labs and prototypes</sub></td>
-    <td align="center"><strong>3</strong><br/><sub>personal projects</sub></td>
+    <td align="center"><strong>9</strong><br/><sub>product labs</sub></td>
+    <td align="center"><strong>4</strong><br/><sub>public showcases</sub></td>
   </tr>
 </table>
 
@@ -82,22 +82,21 @@ I build products where the interface is part of the system: streaming data, even
 </table>
 
 <details>
-<summary><strong>Open the complete lab and prototype collection</strong></summary>
+<summary><strong>Explore the complete product-lab constellation</strong></summary>
 
 <br/>
 
-| Area | Repositories | State |
+| Engineering lane | Projects | What connects them |
 | --- | --- | --- |
-| AI and workflow systems | <code>hitl-workflow-assistant</code>, <code>contentq-demo-v0.8xxx</code>, <code>legalync</code> | Prototype / review |
-| Realtime and data-intensive UI | <a href="https://github.com/Ashishkkb/webskitters"><code>webskitters</code></a>, <code>trading_terminal</code>, <code>governanceefficiencysystem</code> | Active |
-| Product experiments | <code>scis-app</code>, <code>sellFinder</code>, <code>uiassignment</code> | Active / portfolio |
-| UI and performance engineering | <a href="https://github.com/Ashishkkb/uiki8"><code>uiki8</code></a>, <a href="https://github.com/Ashishkkb/plugfast"><code>plugfast</code></a> | Maintain / active |
+| Realtime intelligence | <code>blocord</code>, <code>trading_terminal</code>, <code>governanceefficiencysystem</code> | Dense data, streaming state, explainable decisions |
+| AI-native operations | <code>scis-app</code>, <code>contentq-demo-v0.8xxx</code>, <code>sellFinder</code> | AI-assisted workflows with useful product boundaries |
+| Browser and UI engineering | <code>devicecheckonline</code>, <a href="https://github.com/Ashishkkb/plugfast"><code>plugfast</code></a>, <a href="https://github.com/Ashishkkb/uiki8"><code>uiki8</code></a> | Native browser capability, performance, reusable interaction systems |
 
 </details>
 
 ## Client work
 
-> Eight client deliveries confirmed from the supplied Vercel portfolio. Source repositories are private; live products are linked.
+> Selected client deliveries. Source repositories are private; live products are linked.
 
 | Client project | What I delivered | Live product |
 | --- | --- | --- |
@@ -116,66 +115,83 @@ I build products where the interface is part of the system: streaming data, even
 | --- | --- |
 | <code>portfolio2</code> | Current canonical personal portfolio |
 | [<code>getricheasy</code>](https://github.com/Ashishkkb/getricheasy) | Personal commercial and career strategy notes |
-| <code>studio</code> | SlideAce, a gamified sliding-puzzle experiment |
 
-## Repository map
+## Professional builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ashishkkb/avnl">AVNL</a></h3>
+      <p>A modern information architecture and web experience for Armoured Vehicles Nigam Limited, a Government of India enterprise.</p>
+      <p><code>Next.js</code> <code>Content architecture</code> <code>Public sector</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Rayntra</h3>
+      <p>A product-rich corporate website spanning solar modules, energy storage, inverters, sectors, and applications.</p>
+      <p><code>Next.js</code> <code>Energy</code> <code>Product storytelling</code></p>
+    </td>
+  </tr>
+</table>
+
+## Project universe
 
 <details>
-<summary><strong>Client, professional, lab, personal, fork, and legacy classification</strong></summary>
+<summary><strong>Open the complete map of current owned repositories</strong></summary>
 
 <br/>
 
-| Category | Repositories |
+| Track | Repositories |
 | --- | --- |
-| 🟣 Confirmed client work | <code>sens-website</code>, <code>newDigitalTribes</code>, <code>purepickers</code>, <code>profolio</code>, <code>medical_uae</code>, <code>eorbiter</code>, <code>opsintellix</code>, <code>resume_maker</code> |
-| 🔵 Professional builds pending confirmation | <code>avnl</code>, <code>rayntra</code> |
-| 🟢 Active labs and prototypes | <code>devicecheckonline</code>, <code>blocord</code>, <code>plugfast</code>, <code>scis-app</code>, <code>trading_terminal</code>, <code>governanceefficiencysystem</code>, <code>sellFinder</code>, <code>hitl-workflow-assistant</code>, <code>contentq-demo-v0.8xxx</code>, <code>webskitters</code>, <code>uiki8</code>, <code>legalync</code>, <code>uiassignment</code> |
-| 🟡 Personal work | <code>getricheasy</code>, <code>portfolio2</code>, <code>studio</code> |
-| ⚪ Upstream forks / source study | <code>cal.com</code>, <code>langflow</code> |
-| 🔴 Superseded or archival | <code>contentq-demo-deploy</code>, <code>akbfolio</code>, <code>portfolio</code>, <code>latestportfolio</code>, <code>prouiki8</code>, <code>orderbooking</code>, <code>aniccavision</code>, <code>r3f-christmas-card-experience-main</code>, <code>lochlandingpage</code> |
-| ⚙️ Profile infrastructure | <code>Ashishkkb</code> |
+| Client delivery | <code>sens-website</code>, <code>newDigitalTribes</code>, <code>purepickers</code>, <code>profolio</code>, <code>medical_uae</code>, <code>eorbiter</code>, <code>opsintellix</code>, <code>resume_maker</code> |
+| Professional web builds | <a href="https://github.com/Ashishkkb/avnl"><code>avnl</code></a>, <code>rayntra</code> |
+| Product labs | <code>devicecheckonline</code>, <code>blocord</code>, <code>trading_terminal</code>, <code>governanceefficiencysystem</code>, <code>scis-app</code>, <code>contentq-demo-v0.8xxx</code>, <code>sellFinder</code>, <a href="https://github.com/Ashishkkb/plugfast"><code>plugfast</code></a>, <a href="https://github.com/Ashishkkb/uiki8"><code>uiki8</code></a> |
+| Personal work | <code>portfolio2</code>, <a href="https://github.com/Ashishkkb/getricheasy"><code>getricheasy</code></a> |
+| Profile | <a href="https://github.com/Ashishkkb/Ashishkkb"><code>Ashishkkb</code></a> |
 
 </details>
 
-## Archive and deprecation registry
+## How I build
 
-> This is a maintenance plan—not a record of completed deletion. Archive first whenever ownership, deployment, or unique branch history is uncertain.
->
-> **Quick action:** open a repository to inspect it, or use its **Settings** link while signed into the owner account to archive, transfer, or delete it.
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>01 · Model the system</strong><br/><sub>States, events, ownership, failure modes, and data flow before decoration.</sub></td>
+    <td width="33%" valign="top"><strong>02 · Design the interaction</strong><br/><sub>Dense information can still feel calm when hierarchy and feedback are deliberate.</sub></td>
+    <td width="33%" valign="top"><strong>03 · Measure reality</strong><br/><sub>Performance claims need traces, benchmarks, budgets, and honest trade-offs.</sub></td>
+  </tr>
+</table>
 
-### Deprecated · remove after verification
+## Open-source shelf
 
-| Repository | Reason | Exit check | Owner action |
-| --- | --- | --- | --- |
-| [<code>contentq-demo-deploy</code>](https://github.com/Ashishkkb/contentq-demo-deploy) | Empty repository | Safe first deletion candidate | [Settings / delete](https://github.com/Ashishkkb/contentq-demo-deploy/settings) |
-| [<code>akbfolio</code>](https://github.com/Ashishkkb/akbfolio) | Superseded portfolio variant | Confirm <code>portfolio2</code> contains any unique assets | [Settings / delete](https://github.com/Ashishkkb/akbfolio/settings) |
-| [<code>portfolio</code>](https://github.com/Ashishkkb/portfolio) | Superseded portfolio variant | Migrate unique copy or components | [Settings / delete](https://github.com/Ashishkkb/portfolio/settings) |
-| [<code>latestportfolio</code>](https://github.com/Ashishkkb/latestportfolio) | Older than the canonical <code>portfolio2</code> | Confirm no Vercel project still deploys it | [Settings / delete](https://github.com/Ashishkkb/latestportfolio/settings) |
-| [<code>prouiki8</code>](https://github.com/Ashishkkb/prouiki8) | Private precursor/duplicate of <code>uiki8</code> | Compare unique commits and components | [Settings / delete](https://github.com/Ashishkkb/prouiki8/settings) |
-| [<code>r3f-christmas-card-experience-main</code>](https://github.com/Ashishkkb/r3f-christmas-card-experience-main) | Old template-derived learning experiment | Keep only if it still has portfolio value | [Settings / delete](https://github.com/Ashishkkb/r3f-christmas-card-experience-main/settings) |
-
-### Archive first · review before deletion
-
-<details open>
-<summary><strong>Show repositories recommended for read-only archival</strong></summary>
-
-<br/>
-
-| Repository | Why archive it | Delete only when… | Owner action |
-| --- | --- | --- | --- |
-| [<code>orderbooking</code>](https://github.com/Ashishkkb/orderbooking) | 2024 Next.js project with generated README and default metadata | No client or historical value remains | [Settings / archive](https://github.com/Ashishkkb/orderbooking/settings) |
-| [<code>aniccavision</code>](https://github.com/Ashishkkb/aniccavision) | 2024 monitoring dashboard with generated metadata and a temporary tunnel endpoint | Employer/client ownership is confirmed | [Settings / archive](https://github.com/Ashishkkb/aniccavision/settings) |
-| [<code>lochlandingpage</code>](https://github.com/Ashishkkb/lochlandingpage) | 2023 landing page with generated README and sample API route | No live deployment depends on it | [Settings / archive](https://github.com/Ashishkkb/lochlandingpage/settings) |
-| [<code>cal.com</code>](https://github.com/Ashishkkb/cal.com) | Stale upstream fork | It has no unique branch, PR, or patch | [Settings / archive](https://github.com/Ashishkkb/cal.com/settings) |
-| [<code>langflow</code>](https://github.com/Ashishkkb/langflow) | Stale upstream fork | It has no unique branch, PR, or patch | [Settings / archive](https://github.com/Ashishkkb/langflow/settings) |
-| [<code>legalync</code>](https://github.com/Ashishkkb/legalync) | Older product prototype with generated Lovable README and placeholder areas | It is no longer a useful portfolio case study | [Settings / archive](https://github.com/Ashishkkb/legalync/settings) |
-| [<code>hitl-workflow-assistant</code>](https://github.com/Ashishkkb/hitl-workflow-assistant) | Older AI workflow prototype | Its interaction patterns are documented elsewhere | [Settings / archive](https://github.com/Ashishkkb/hitl-workflow-assistant/settings) |
-| [<code>uiki8</code>](https://github.com/Ashishkkb/uiki8) | Older UI-library experiment | <code>plugfast</code> or another library fully replaces its value | [Settings / archive](https://github.com/Ashishkkb/uiki8/settings) |
-| [<code>studio</code>](https://github.com/Ashishkkb/studio) | Older standalone game experiment | It is not needed as an interaction-design sample | [Settings / archive](https://github.com/Ashishkkb/studio/settings) |
-
-</details>
-
-For the full evidence and repository-by-repository reasoning, open [<strong>REPOSITORY_AUDIT.md</strong>](REPOSITORY_AUDIT.md).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ashishkkb/plugfast">plugfast</a></h3>
+      <p>Measured browser-performance primitives for demanding React interfaces.</p>
+      <img src="https://img.shields.io/github/stars/Ashishkkb/plugfast?style=flat-square&label=stars&labelColor=161B22&color=58A6FF" alt="plugfast stars" />
+      <img src="https://img.shields.io/github/last-commit/Ashishkkb/plugfast?style=flat-square&label=updated&labelColor=161B22&color=238636" alt="plugfast last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ashishkkb/uiki8">uiki8</a></h3>
+      <p>A 3D-enabled component and interaction library for modern web products.</p>
+      <img src="https://img.shields.io/github/stars/Ashishkkb/uiki8?style=flat-square&label=stars&labelColor=161B22&color=8957E5" alt="uiki8 stars" />
+      <img src="https://img.shields.io/github/last-commit/Ashishkkb/uiki8?style=flat-square&label=updated&labelColor=161B22&color=238636" alt="uiki8 last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ashishkkb/avnl">AVNL</a></h3>
+      <p>Large-scale public-sector information architecture and frontend implementation.</p>
+      <img src="https://img.shields.io/github/stars/Ashishkkb/avnl?style=flat-square&label=stars&labelColor=161B22&color=E3B341" alt="AVNL stars" />
+      <img src="https://img.shields.io/github/last-commit/Ashishkkb/avnl?style=flat-square&label=updated&labelColor=161B22&color=238636" alt="AVNL last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ashishkkb/getricheasy">getricheasy</a></h3>
+      <p>A public working notebook for commercial strategy and engineering career leverage.</p>
+      <img src="https://img.shields.io/github/stars/Ashishkkb/getricheasy?style=flat-square&label=stars&labelColor=161B22&color=BC8CFF" alt="getricheasy stars" />
+      <img src="https://img.shields.io/github/last-commit/Ashishkkb/getricheasy?style=flat-square&label=updated&labelColor=161B22&color=238636" alt="getricheasy last commit" />
+    </td>
+  </tr>
+</table>
 
 ## GitHub signal
 
@@ -198,4 +214,4 @@ I’m open to work involving **realtime systems, trading infrastructure, AI-nati
   <a href="https://github.com/Ashishkkb"><img src="https://img.shields.io/badge/GitHub-Ashishkkb-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 </p>
 
-<p align="center"><sub>Designed as a living map of shipped work, active labs, and intentional archives.</sub></p>
+<p align="center"><sub>Designed as a living map of shipped systems, active products, and ambitious experiments.</sub></p>
