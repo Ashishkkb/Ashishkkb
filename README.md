@@ -5,6 +5,8 @@
 <p align="center">
   <a href="#featured-labs"><strong>Labs</strong></a>
   &nbsp;·&nbsp;
+  <a href="#systems-gallery"><strong>Systems gallery</strong></a>
+  &nbsp;·&nbsp;
   <a href="#client-work"><strong>Client work</strong></a>
   &nbsp;·&nbsp;
   <a href="#project-universe"><strong>Project universe</strong></a>
@@ -47,6 +49,18 @@ I build products where the interface is part of the system: streaming data, even
 | --- | --- | --- |
 | WebSockets, SSE, streaming state, event-driven architecture | AI workflows, human review, auditability, product strategy | React, Next.js, TypeScript, design systems, data-dense UI |
 | Market-data flows, realtime synchronization, low-latency thinking | Node.js, PostgreSQL, Redis, API integration | Web Workers, virtualization, OffscreenCanvas, render optimization |
+
+## Systems gallery
+
+<p align="center">
+  <img src="./assets/project-collage.png" width="100%" alt="A portfolio collage showing a developer terminal, neo-brutalist ecommerce experience, AI marketing workflow canvas, and HFT execution platform" />
+</p>
+
+<p align="center">
+  <sub><strong>NEXUS // Terminal</strong> · <strong>MORROW Commerce</strong> · <strong>ORBIT Campaign OS</strong> · <strong>VECTOR Alpha Lab</strong></sub>
+</p>
+
+> Four interface studies, one engineering philosophy: make complex systems feel legible, responsive, and deliberate.
 
 ## Featured labs
 
