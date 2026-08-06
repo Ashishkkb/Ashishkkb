@@ -140,17 +140,19 @@ I build products where the interface is part of the system: streaming data, even
 ## Archive and deprecation registry
 
 > This is a maintenance plan—not a record of completed deletion. Archive first whenever ownership, deployment, or unique branch history is uncertain.
+>
+> **Quick action:** open a repository to inspect it, or use its **Settings** link while signed into the owner account to archive, transfer, or delete it.
 
 ### Deprecated · remove after verification
 
-| Repository | Reason | Exit check |
-| --- | --- | --- |
-| <code>contentq-demo-deploy</code> | Empty repository | Safe first deletion candidate |
-| <code>akbfolio</code> | Superseded portfolio variant | Confirm <code>portfolio2</code> contains any unique assets |
-| <code>portfolio</code> | Superseded portfolio variant | Migrate unique copy or components |
-| <code>latestportfolio</code> | Older than the canonical <code>portfolio2</code> | Confirm no Vercel project still deploys it |
-| <code>prouiki8</code> | Private precursor/duplicate of <code>uiki8</code> | Compare unique commits and components |
-| <code>r3f-christmas-card-experience-main</code> | Old template-derived learning experiment | Keep only if it still has portfolio value |
+| Repository | Reason | Exit check | Owner action |
+| --- | --- | --- | --- |
+| [<code>contentq-demo-deploy</code>](https://github.com/Ashishkkb/contentq-demo-deploy) | Empty repository | Safe first deletion candidate | [Settings / delete](https://github.com/Ashishkkb/contentq-demo-deploy/settings) |
+| [<code>akbfolio</code>](https://github.com/Ashishkkb/akbfolio) | Superseded portfolio variant | Confirm <code>portfolio2</code> contains any unique assets | [Settings / delete](https://github.com/Ashishkkb/akbfolio/settings) |
+| [<code>portfolio</code>](https://github.com/Ashishkkb/portfolio) | Superseded portfolio variant | Migrate unique copy or components | [Settings / delete](https://github.com/Ashishkkb/portfolio/settings) |
+| [<code>latestportfolio</code>](https://github.com/Ashishkkb/latestportfolio) | Older than the canonical <code>portfolio2</code> | Confirm no Vercel project still deploys it | [Settings / delete](https://github.com/Ashishkkb/latestportfolio/settings) |
+| [<code>prouiki8</code>](https://github.com/Ashishkkb/prouiki8) | Private precursor/duplicate of <code>uiki8</code> | Compare unique commits and components | [Settings / delete](https://github.com/Ashishkkb/prouiki8/settings) |
+| [<code>r3f-christmas-card-experience-main</code>](https://github.com/Ashishkkb/r3f-christmas-card-experience-main) | Old template-derived learning experiment | Keep only if it still has portfolio value | [Settings / delete](https://github.com/Ashishkkb/r3f-christmas-card-experience-main/settings) |
 
 ### Archive first · review before deletion
 
@@ -159,17 +161,17 @@ I build products where the interface is part of the system: streaming data, even
 
 <br/>
 
-| Repository | Why archive it | Delete only when… |
-| --- | --- | --- |
-| <code>orderbooking</code> | 2024 Next.js project with generated README and default metadata | No client or historical value remains |
-| <code>aniccavision</code> | 2024 monitoring dashboard with generated metadata and a temporary tunnel endpoint | Employer/client ownership is confirmed |
-| <code>lochlandingpage</code> | 2023 landing page with generated README and sample API route | No live deployment depends on it |
-| <code>cal.com</code> | Stale upstream fork | It has no unique branch, PR, or patch |
-| <code>langflow</code> | Stale upstream fork | It has no unique branch, PR, or patch |
-| <code>legalync</code> | Older product prototype with generated Lovable README and placeholder areas | It is no longer a useful portfolio case study |
-| <code>hitl-workflow-assistant</code> | Older AI workflow prototype | Its interaction patterns are documented elsewhere |
-| <code>uiki8</code> | Older UI-library experiment | <code>plugfast</code> or another library fully replaces its value |
-| <code>studio</code> | Older standalone game experiment | It is not needed as an interaction-design sample |
+| Repository | Why archive it | Delete only when… | Owner action |
+| --- | --- | --- | --- |
+| [<code>orderbooking</code>](https://github.com/Ashishkkb/orderbooking) | 2024 Next.js project with generated README and default metadata | No client or historical value remains | [Settings / archive](https://github.com/Ashishkkb/orderbooking/settings) |
+| [<code>aniccavision</code>](https://github.com/Ashishkkb/aniccavision) | 2024 monitoring dashboard with generated metadata and a temporary tunnel endpoint | Employer/client ownership is confirmed | [Settings / archive](https://github.com/Ashishkkb/aniccavision/settings) |
+| [<code>lochlandingpage</code>](https://github.com/Ashishkkb/lochlandingpage) | 2023 landing page with generated README and sample API route | No live deployment depends on it | [Settings / archive](https://github.com/Ashishkkb/lochlandingpage/settings) |
+| [<code>cal.com</code>](https://github.com/Ashishkkb/cal.com) | Stale upstream fork | It has no unique branch, PR, or patch | [Settings / archive](https://github.com/Ashishkkb/cal.com/settings) |
+| [<code>langflow</code>](https://github.com/Ashishkkb/langflow) | Stale upstream fork | It has no unique branch, PR, or patch | [Settings / archive](https://github.com/Ashishkkb/langflow/settings) |
+| [<code>legalync</code>](https://github.com/Ashishkkb/legalync) | Older product prototype with generated Lovable README and placeholder areas | It is no longer a useful portfolio case study | [Settings / archive](https://github.com/Ashishkkb/legalync/settings) |
+| [<code>hitl-workflow-assistant</code>](https://github.com/Ashishkkb/hitl-workflow-assistant) | Older AI workflow prototype | Its interaction patterns are documented elsewhere | [Settings / archive](https://github.com/Ashishkkb/hitl-workflow-assistant/settings) |
+| [<code>uiki8</code>](https://github.com/Ashishkkb/uiki8) | Older UI-library experiment | <code>plugfast</code> or another library fully replaces its value | [Settings / archive](https://github.com/Ashishkkb/uiki8/settings) |
+| [<code>studio</code>](https://github.com/Ashishkkb/studio) | Older standalone game experiment | It is not needed as an interaction-design sample | [Settings / archive](https://github.com/Ashishkkb/studio/settings) |
 
 </details>
 
